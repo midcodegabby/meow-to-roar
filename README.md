@@ -2,8 +2,10 @@
 
 ### Purpose:
 This repository contains some MATLAB code to test the conversion of a meow sound clip to a roar sound.  
-For now, I am just testing whether it is possible to make this conversion, (which I have proved), and   
-how accurate I can make the resulting roar to an actual Lion's roar.  
+For now I am testing how accurate I can make the resulting roar to an actual Lion's roar.  
+
+### Progress: 
+- Completed proof-of-concept MATLAB file, which successfully modifies a meow .wav file into a sound resembling a lion's roar.
 
 ### DSP Techniques used:
 - FIR Filters
