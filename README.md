@@ -1,5 +1,3 @@
-# Meow_To_Roar
-
 ### Purpose:
 This repository contains some MATLAB code to test the conversion of a meow sound clip to a roar sound.  
 For now I am testing how accurate I can make the resulting roar to an actual Lion's roar.  
